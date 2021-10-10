@@ -6,23 +6,23 @@
 
 # Solution
 
-Looking deeply intp the image we see something:
+Looking deeply into the image we see some ciphertext hidden in the shadow:
 
-![cipher text](deeper1.png?raw=true "cipher text")
+![cipher text](deeper2.png?raw=true "cipher text")
 
-The question is talking about some place so probably there are some GPS coordinates in the image.
+The question is talking about some place so probably finding the GPS coordinates of the image would help.
 
-![GPS coords](deeper2.png?raw=true "GPS coords")
+![GPS coords](deeper1.png?raw=true "GPS coords")
 
 It points to some place in Beaufort, South Carolina, USA.
 
 ![Beaufort](deeper3.png?raw=true "Beaufort")
 
-Could Beaufort be related to a Cipher? Yes. And what about the pizza??
+Could Beaufort be related to a Cipher? Yes. But, what about the pizza??
 
 ![Beaufort Cipher](deeper4.png?raw=true "Beaufort Cipher")
 
-Wasn't the `German` place better?? Yes it was.
+Wasn't the `German` place better?? Yes! It was.
 
 ![flag](deeper5.png?raw=true "flag")
 
