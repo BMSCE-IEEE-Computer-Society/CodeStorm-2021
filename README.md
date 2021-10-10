@@ -1,3 +1,3 @@
 # CodeStorm 2021 Write-up
 
-CodeStorm was a competition that was a mix of of codeathon and a CTF.
+CodeStorm was a competition that mixed a code-a-thon and a CTF.
