@@ -25,17 +25,17 @@ When you see encrypted text you know it involves a cipher. But what are they?
 
 You will have two different ciphers. The clue is in the first sentence. When you search for `fence cipher` you get the `Rail Fence cipher`.
 
-Mound must mean something - it is a synonym for hill and we have the `Hill Cipher`.
+Similarly `mound` must mean something - it is a synonym for hill and we find the `Hill Cipher`.
 
-There are also 4 empty lines in the first clue.
+Looks like we have to use one to decrypt the other.
 
-![empty values](here1.png?raw=true "empty lines")
+Strangely there are 4 empty lines in the first clue.
 
-Now entering 4 in the configuration of the Rail Fence Cipher at two places, we get this:
+After looking at the configuration options of the rail fence cipher we find that we have to enter `4` at two places(`offset` and `height`), and we get this:
 
 ![missing punctuation and spaces](here2.png?raw=true "missing punctuatin and spaces")
 
-Did we miss some punctuation? Yes.
+Did we miss the `punctuation and spaces option`? Yes.
 
 ![matrix values](here3.png?raw=true "matrix values")
 
