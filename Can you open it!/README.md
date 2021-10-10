@@ -11,22 +11,25 @@
 
 # Solution
 
-Download the .docx on to your system and try opening it but you can't.
+Download the .docx on to your system and try opening it. But you can't.
+
 ![Error Message on Libre Office](open1.png?raw=true "error")
 
-There is a hint in the question that something is 'inside' the file.
+There is a hint in the question that something is `inside` the file.
 
-So change the file extension to `.zip` and extract it, you see that there are a few folders and `.xml` files.
+So change the file extension to `.zip` and extract it. You will see that there are a few folders and `.xml` files.
 
-Now we have to check all these folders for the flag. In the word folder we have these files:
+Now we have to check all these folders and files for the flag.
+
+In the `word` folder we have these files:
 
 ![`word` Folder Directory structure](open2.png?raw=true "word")
 
-Running the `file` command to see if the files are corrupted we find that one file is a `PNG` image.
+On running the `file` command to see if the files are corrupt, we find that one file is a `PNG` image but has been renamed with the `.xml` extension.
 
 ![file command output](open3.png?raw=true "file")
 
-Renaming the file and opening this file we get our flag:
+On renaming the file and opening it, we get our flag:
 
 ![flag](open4.png?raw=true "flag")
 
